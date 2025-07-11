@@ -1,6 +1,8 @@
 ---
 title: "WI meeting "
 date: 2025-08-12
+eventDates:
+  - start: 2025-08-12T19:30:00+01:00
 venues:
   - Oakley-Village-Hall
   - Station-Rd
