@@ -1,5 +1,5 @@
 ---
-title: Oakley & Deane WI Vintage Jumble Sale
+title: Vintage Jumble Sale
 date: 2026-03-28
 eventDates:
   - start: 2026-03-28T13:45:00
@@ -8,6 +8,8 @@ venues:
 organisers:
   - oakley-deane-wi
 poster: poster.png
+aliases:
+  - /events/2026/03/vintage-jumble-sale-march-2026/
 ---
 
 A **Vintage & Jumble Sale** at East Oakley Village Hall (the Green Hut), Hill Road, Oakley. RG23 7JJ.
