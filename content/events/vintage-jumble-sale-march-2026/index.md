@@ -7,6 +7,27 @@ venues:
   - east-oakley-village-hall
 organisers:
   - oakley-deane-wi
+poster: poster.png
 ---
 
-Saturday 28 March, Doors open 1:45pm, East Oakley Village Hall
+We are holding a **Vintage & Jumble Sale** at East Oakley Village Hall (the Green Hut), Hill Road, Oakley. RG23 7JJ.
+
+**Entrance fee:** 50p for adults
+
+**Available items:**
+- Vintage and used clothes
+- Books
+- Toys
+- Linens
+- Bric-a-brac
+
+**Also featuring:**
+- Tombola
+- Raffle
+- Refreshments
+
+**Donations:**
+Donations of goods accepted at the Hall from 10am (no large furniture items please)
+
+**Enquiries:**
+Contact the Secretary by email: oakleydeanewi@gmail.com
