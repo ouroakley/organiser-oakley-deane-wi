@@ -10,7 +10,7 @@ organisers:
 poster: poster.png
 ---
 
-We are holding a **Vintage & Jumble Sale** at East Oakley Village Hall (the Green Hut), Hill Road, Oakley. RG23 7JJ.
+A **Vintage & Jumble Sale** at East Oakley Village Hall (the Green Hut), Hill Road, Oakley. RG23 7JJ.
 
 **Entrance fee:** 50p for adults
 
