@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Oakley & Deane WI Meeting – Knitting for the Military
+title: WI Meeting – Knitting for the Military
 date: 2026-04-14
 eventDates:
   - start: 2026-04-14T19:30:00
